@@ -1,0 +1,30 @@
+{
+  "name": "jakartajs-ramda-talk",
+  "version": "1.0.0",
+  "description": "Sample code for my talk at JakartaJS August meetup.",
+  "main": "0-curry.js",
+  "dependencies": {
+    "ramda": "^0.22.1",
+    "sanctuary": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bepitulaz/jakartajs-ramda.git"
+  },
+  "keywords": [
+    "sample",
+    "ramda",
+    "functional",
+    "sanctuary"
+  ],
+  "author": "Asep Bagja Priandana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bepitulaz/jakartajs-ramda/issues"
+  },
+  "homepage": "https://github.com/bepitulaz/jakartajs-ramda#readme"
+}
